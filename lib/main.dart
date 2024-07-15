@@ -1,7 +1,7 @@
 void main () {
   
 // for (var = value ; condition ; operator ) { code }
-
+// khalsni mshan allah
 int year ;
 
 for (year = 1900; year <= 2020 ; year++) {
