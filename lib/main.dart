@@ -1,15 +1,8 @@
 void main () {
   
-// for (var = value ; condition ; operator ) { code }
-// khalsni mshan allah
-int year ;
-
-for (year = 1900; year <= 2020 ; year++) {
-  if (year ==1950) {
-    print ("year ===== 1950") ;
-  } 
-  print (year) ;
-}
+//this is the area in which you can do your code
+//also to see the errors in code use the "Terminal" button on the upper task bar
+print("allah hayo world") ;
 
 
 }
