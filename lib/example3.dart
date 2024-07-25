@@ -2,6 +2,7 @@
 // to see the example go to https://www.youtube.com/watch?v=uAzDZo7sQrE&list=PL93xoMrxRJIsYc9L0XBSaiiuq01JTMQ_o&index=42
 import 'dart:math';//note that this is imported from dart library automaticly since I am using math elements
 //it can also be written like this import 'dart:math' as math; so that when you type any math element (like sqrt) it will not activate unless you put math. before hand
+//also note that the same thing can be applied to any imported files not just from dart library
 
 
  //the roots here can be one of three, either its above zero (delta > 0) which means it has two real roots or its equal to zero (delta = 0) which means it has one root or its below zero (delta < 0) which means it has two imaginary roots
