@@ -8,7 +8,7 @@ import 'dart:math';//note that this is imported from dart library automaticly si
  //the roots here can be one of three, either its above zero (delta > 0) which means it has two real roots or its equal to zero (delta = 0) which means it has one root or its below zero (delta < 0) which means it has two imaginary roots
   int a = 8;
   int b = 8;
-  int c = 1;
+  int c = 5;
   int delta = b * b - 4 * a * c;// this is the equation used to know what is delta
   late double x1 ; 
   late double x2 ;
@@ -32,4 +32,5 @@ if(delta > 0){
   }else{
     print("there are no solutions");
   }
+
 }
