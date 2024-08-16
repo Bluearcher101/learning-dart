@@ -4,12 +4,12 @@
 //it is expressed using class
 void main(){
 //here we will make a prototype (instance)
-Mobile info = new Mobile();
-//here we declared a variable as the information in the class Mobile as "info"
+Mobile mobile = new Mobile();
+//here we declared a variable as the information in the class Mobile as "mobile"
 
 
-print(info.name);
-print(info.RAM);
+print(mobile.name);
+print(mobile.RAM);
 //this way you can print anything you want and mention first the variable in the void main then mention the variable you want to print in the class
  
 
